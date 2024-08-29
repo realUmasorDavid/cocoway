@@ -13,6 +13,9 @@ export default {
       fontFamily: {
         Poppins: ["Poppins", "sans-serif"]
       },
+      backgroundImage: {
+        'hero-pattern': "url('/src/assets/palm.jpg')",
+      }
     },
   },
   plugins: [],
